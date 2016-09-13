@@ -8,3 +8,6 @@ Agricaltural Information Technology
 
 熊本県病害虫防除所 <BR/>
 http://www.jppn.ne.jp/kumamoto/ からゲットした、予察情報、技術情報の原本PDFだ
+
+メモ：http://web1.jppn.ne.jp/docs_cgi/umnkyoso/ うんか君の飛来予測
+うんかやらＰＭやらはあの国から飛んでくる
